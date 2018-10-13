@@ -1,0 +1,6 @@
+# project
+/build/
+/vendor/
+
+# misc
+.DS_Store
